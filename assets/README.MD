@@ -1,6 +1,6 @@
-# Template Node.js project
+# {{PROJECT_NAME}}
 
-A template for a Node.js project.
+{{PROJECT_DESCRIPTION}}
 
 ## Setup
 

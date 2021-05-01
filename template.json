@@ -1,0 +1,6 @@
+{
+    "expand": [
+        "package.json",
+        "README.MD"
+    ]
+}
