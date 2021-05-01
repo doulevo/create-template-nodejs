@@ -2,5 +2,13 @@
     "expand": [
         "package.json",
         "README.MD"
+    ],
+    "questions": [
+        {
+            "type": "input",
+            "name": "PACKAGE_VERSION",
+            "default": "0.0.1",
+            "message": "Enter the initial version number for your new project (it will be saved to the package.json file)."
+        }
     ]
 }

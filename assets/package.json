@@ -1,6 +1,6 @@
 {
   "name": "{{PROJECT_NAME}}",
-  "version": "0.0.1",
+  "version": "{{PACKAGE_VERSION}}",
   "description": "{{PROJECT_DESCRIPTION}}",
   "main": "index.js",
   "scripts": {
