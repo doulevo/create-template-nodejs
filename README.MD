@@ -1,3 +1,3 @@
-# Template Node.js project
+# Doulevo Node.js plugin
 
-A template for a Node.js project.
+The Node.js plugin for Doulevo. 
