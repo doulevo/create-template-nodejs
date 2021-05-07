@@ -1,8 +1,8 @@
 {
-  "name": "{{PROJECT_NAME}}",
-  "version": "{{PACKAGE_VERSION}}",
-  "description": "{{PROJECT_DESCRIPTION}}",
-  "main": "index.js",
+  "name": "{{name}}",
+  "version": "{{packageVersion}}",
+  "description": "{{description}}",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "start:dev": "nodemon src/index.js --legacy-watch",

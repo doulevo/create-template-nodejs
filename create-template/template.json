@@ -6,13 +6,13 @@
     "questions": [
         {
             "type": "input",
-            "name": "PACKAGE_VERSION",
+            "name": "packageVersion",
             "default": "0.0.1",
             "message": "Enter the initial version number for your new project (it will be saved to the package.json file)."
         },
         {
             "type": "list",
-            "name": "NODEJS_VERSION",
+            "name": "nodeJsVersion",
             "default": "14",
             "choices": ["10", "12", "14" ],
             "message": "Enter the version of Node.js to use (this will be the base image for the Dockerfiles)."

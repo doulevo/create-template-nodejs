@@ -1,4 +1,4 @@
-FROM node:{{NODEJS_VERSION}}-alpine
+FROM node:{{nodeJsVersion}}-alpine
 
 WORKDIR /usr/src/app
 COPY package*.json ./
